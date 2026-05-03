@@ -2,7 +2,7 @@
 
 #  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGoxbHF4aWtxcnViYmd3MGF2MWVheGZ4aGhoOHF0OWhyamRodG96biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIrn6XBh0CYiAw2BBQ/giphy.gif" width="85" style="border: 4px solid #10eb47; border-radius: 10px;"/> Bienvenid@ al GitHub de Marlon Stick
 
-![Banner de Maron Stick](nombre-del-banner-alojado-en-algun-lugar.png)
+![Banner de Maron Stick](banner-github-mastick2607.png)
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marlon-stick-cortes-%C3%B1ustes-baa47b1b4/)
 
