@@ -1,6 +1,6 @@
 
 
-#  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGoxbHF4aWtxcnViYmd3MGF2MWVheGZ4aGhoOHF0OWhyamRodG96biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIrn6XBh0CYiAw2BBQ/giphy.gif" width="200"/> Bienvenid@ al GitHub de Marlon Stick
+#  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGoxbHF4aWtxcnViYmd3MGF2MWVheGZ4aGhoOHF0OWhyamRodG96biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIrn6XBh0CYiAw2BBQ/giphy.gif" width="85" style="border: 4px solid #10eb47; border-radius: 10px;"/> Bienvenid@ al GitHub de Marlon Stick
 
 ![Banner de Maron Stick](nombre-del-banner-alojado-en-algun-lugar.png)
 
@@ -27,7 +27,8 @@ Experto en conectar lógica compleja con interfaces intuitivas, utilizando Kafka
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
 ![Stripe](https://img.shields.io/badge/Stripe-5469d4?style=for-the-badge&logo=stripe&logoColor=ffffff)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mastick2607&layout=compact)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=condorcoders&layout=compact&theme=dark)
+
 <!--
 **Mastick2607/Mastick2607** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
