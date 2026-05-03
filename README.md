@@ -27,7 +27,7 @@ Experto en conectar lógica compleja con interfaces intuitivas, utilizando Kafka
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
 ![Stripe](https://img.shields.io/badge/Stripe-5469d4?style=for-the-badge&logo=stripe&logoColor=ffffff)
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=condorcoders&layout=compact&theme=dark)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mastick2607&layout=compact&theme=dark)
 
 <!--
 **Mastick2607/Mastick2607** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
